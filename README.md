@@ -1,4 +1,4 @@
-# opf_gnn_ppo
+# Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow 
 This work introduces a novel architecture that combines Proximal Policy Optimization (PPO) — a Deep Reinforcement Learning algorithm — with Graph Neural Networks (GNNs) to solve the Optimal Power Flow (OPF) problem in electrical grids.
 Unlike traditional numerical solvers, which often fail to converge in large, nonlinear systems, our approach learns to minimize generation costs while generalizing to unseen grid topologies.
 
