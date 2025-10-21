@@ -100,7 +100,7 @@ If you find this work useful for your research, please cite our paper:
 ```bibtex
 @inproceedings{Lopez-Cardona2025Proximal,
   title     = {Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow},
-  author    = {L{\'o}pez-Cardona, {\'A}ngela and Bern{\'a}rdez, Guillermo and Barlet-Ros, Pere and Cabellos-Aparicio, Albert},
+  author    = {Lopez-Cardona, Angela and Bernardez, Guillermo and Barlet-Ros, Pere and Cabellos-Aparicio, Albert},
   booktitle = {Proceedings of the 14th International Conference on Data Science, Technology and Applications - Volume 1: DATA},
   year      = {2025},
   pages     = {347-354},
